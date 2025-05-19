@@ -44,4 +44,4 @@ The system could be useful for autonomous vehicles, driver assistance systems, o
 
 ![image alt](https://github.com/Dilini217/traffic_signs_recognition/blob/main/result_screenst/6.png?raw=true)
 
-![image alt](
+![image alt](https://github.com/Dilini217/traffic_signs_recognition/blob/main/result_screenst/5.png?raw=true)
